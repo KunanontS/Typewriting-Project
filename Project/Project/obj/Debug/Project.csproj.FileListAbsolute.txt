@@ -1,0 +1,16 @@
+F:\VS APP DEV\Project\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+F:\VS APP DEV\Project\Project\obj\Debug\Project.main.resources
+F:\VS APP DEV\Project\Project\obj\Debug\Project.Properties.Resources.resources
+F:\VS APP DEV\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+F:\VS APP DEV\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+F:\VS APP DEV\Project\Project\bin\Debug\Project.exe.config
+F:\VS APP DEV\Project\Project\bin\Debug\Project.exe
+F:\VS APP DEV\Project\Project\bin\Debug\Project.pdb
+F:\VS APP DEV\Project\Project\obj\Debug\Project.exe
+F:\VS APP DEV\Project\Project\obj\Debug\Project.pdb
+F:\VS APP DEV\Project\Project\obj\Debug\Project.English_words.resources
+F:\VS APP DEV\Project\Project\obj\Debug\Project.E_10.resources
+F:\VS APP DEV\Project\Project\obj\Debug\Project.E_25.resources
+F:\VS APP DEV\Project\Project\obj\Debug\Project.T_10.resources
+F:\VS APP DEV\Project\Project\obj\Debug\Project.WPM.resources
+F:\VS APP DEV\Project\Project\obj\Debug\Project.WPM_T.resources
